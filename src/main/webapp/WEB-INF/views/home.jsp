@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-DevOps helps all
+Prasad Maama is  DevOps Pillar
 			</h1>
 		
 			<div>
