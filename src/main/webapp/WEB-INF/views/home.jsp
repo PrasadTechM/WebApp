@@ -9,7 +9,8 @@
 		<div class="span10 offset1">
 
 			<h1>
-Prasad Maama is  DevOps Pillar
+Prasad Learning Devops Tools
+
 			</h1>
 		
 			<div>
