@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Prasad Learning Devops Tools
+Prasad Learning CI/CD 
 
 			</h1>
 		
